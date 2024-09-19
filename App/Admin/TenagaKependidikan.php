@@ -9,4 +9,3 @@ class TenagaKependidikan extends Pegawai {
         echo "{$this->nama} sedang cuti";
     }
 }
-?>
