@@ -6,3 +6,4 @@ class HomePage
         echo "Halaman depan guest";
     }
 }
+?>
